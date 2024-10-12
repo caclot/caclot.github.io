@@ -186,6 +186,11 @@
       {% if author.youtube %}
         <a href="https://www.youtube.com/user/{{ author.youtube }}"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i></a>
       {% endif %}
+{% if author.bilibili %}
+  <a href="https://space.bilibili.com/{{ author.bilibili }}" target="_blank">
+    <img src="images/bilibili.svg" alt="Bilibili" style="width: 20px; height: 20px;">
+  </a>
+{% endif %}
       {% if author.soundcloud %}
         <a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud" aria-hidden="true"></i></a>
       {% endif %}
