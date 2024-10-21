@@ -24,7 +24,6 @@ redirect_from:
 My research interest includes neural machine translation, computer vision, autonomous driving, machine learning, software development, and so on. 
 
 
-# 
 
 
 # 🔥 News
@@ -39,9 +38,7 @@ My research interest includes neural machine translation, computer vision, auton
 啥都没有
 
 </div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - 不值一提的奖学金、挑战杯省一，没啥别的了，小学一年级获得过少儿绘画大赛一等奖嘻嘻
