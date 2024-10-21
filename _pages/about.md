@@ -5,6 +5,8 @@
 
 一个普普通通末流211计算机系大四学生，目前正在中科院计算所客座实习，备考雅思中
 
+永远热爱生活
+
 My research interest includes neural machine translation, computer vision, autonomous driving, machine learning, software development, and so on. 
 
 
