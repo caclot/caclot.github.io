@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Phay's Homepage"
 description              : "每一个不曾起舞的日子，都是对生命的辜负"
-repository               : "calot.github.io"
+repository               : "caclot/caclot.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -28,7 +28,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "1751368522@qq.com"
+  email            : "pzjripples@gmail.com"
+  qqmail           : "profectus@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
