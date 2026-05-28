@@ -61,7 +61,7 @@ I'm keeping the tiny rough projects offstage for now, until they become somethin
 
 <span class='anchor' id='currently'></span>
 
-# 🎯 Currently
+# ⚡ Currently
 
 - Preparing for my next chapter at HKU Computer Science.
 - Learning software engineering, AI, and the messy craft of turning ideas into working tools.
