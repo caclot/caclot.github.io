@@ -92,7 +92,7 @@
         <li><a href="https://www.youtube.com/user/{{ author.youtube }}"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a></li>
       {% endif %}
       {% if author.bilibili %}
-        <li><a href="https://space.bilibili.com/{{ author.bilibili }}"><i class="fas fa-fw fa-tv" aria-hidden="true"></i> Bilibili</a></li>
+        <li><i class="fas fa-fw fa-tv" aria-hidden="true"></i> Bilibili</li>
       {% endif %}
       {% if author.soundcloud %}
         <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud" aria-hidden="true"></i> Soundcloud</a></li>
@@ -193,9 +193,7 @@
         <a href="https://www.youtube.com/user/{{ author.youtube }}"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i></a>
       {% endif %}
 {% if author.bilibili %}
-  <a href="https://space.bilibili.com/{{ author.bilibili }}" target="_blank">
-    <i class="fas fa-fw fa-tv" aria-hidden="true"></i>
-  </a>
+  <i class="fas fa-fw fa-tv" aria-hidden="true"></i>
 {% endif %}
         
       {% if author.soundcloud %}
