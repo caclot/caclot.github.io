@@ -19,7 +19,7 @@ redirect_from:
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F79700&size=25&center=true&vCenter=true&width=700&height=100&lines=每一个不曾起舞的日子，都是对生命的辜负;管它真理无限，进一寸有进一寸的欢喜;三分钟热度就有三分钟收获;Software+Engineering+Student;Active+Learner+and+Builder;Love+to+learn+fresh+and+interesting+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F79700&size=25&center=true&vCenter=true&width=700&height=100&lines=Every+day+without+dancing+is+a+betrayal+of+life;Truth+is+infinite,+yet+every+step+brings+joy;Three+minutes+of+passion,+three+minutes+of+growth;Software+Engineering+Student;Active+Learner+and+Builder;Love+to+learn+fresh+and+interesting+things" alt="Typing SVG" />
   </a>
 </p>
 
@@ -45,17 +45,17 @@ I'm keeping the tiny rough projects offstage for now, until they become somethin
 </div>
 
 # 🎖 Honors and Awards
-- 挑战杯省级一等奖等
+- Provincial First Prize, "Challenge Cup" Entrepreneurship Competition
 
 # 📖 Educations
-- *2021.09 - 2025.06*: 郑州大学，软件工程（卓越工程师），学士
-- *2026.09 - 2027*: 香港大学，计算机科学，硕士（即将入读）
+- *2021.09 - 2025.06*: Zhengzhou University, Software Engineering (Outstanding Engineer Program), B.Eng.
+- *2026.09 - 2027*: The University of Hong Kong, Computer Science, M.Sc. (Incoming)
 
 # 💬 Invited Talks
-- *2021.06*, 大家好
+- *2021.06*, Hello, everyone
 
 # 💻 Internships
-- *2024.09 - 2025.05*: 中科院计算所，虚拟现实组
+- *2024.09 - 2025.05*: Institute of Computing Technology, Chinese Academy of Sciences, Virtual Reality Group
 
 <br>
 
