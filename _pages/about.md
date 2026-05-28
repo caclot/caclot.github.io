@@ -17,20 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-B.Eng. in Software Engineering, Zhengzhou University. Incoming M.Sc. in Computer Science student at The University of Hong Kong. I enjoy building practical apps and desktop tools that turn everyday friction into solvable software problems.
+B.Eng. in Software Engineering, Zhengzhou University.
+
+Incoming M.Sc. in Computer Science student at The University of Hong Kong.
+
+I enjoy building practical apps and desktop tools that turn everyday friction into solvable software problems.
 
 <br>
 
-**Research Interests:** `LLM alignment`, `audio foundation models`, and `embodied intelligence`.
+- **Research Interests:** `LLM alignment`, `audio foundation models`, and `embodied intelligence`.
 
-**Long-term Curiosities:** `computational neuroscience`, `brain-inspired computing`, `neuromorphic engineering`, cognitive science, psychology, law, and linguistics.
+- **Long-term Curiosities:** `computational neuroscience`, `brain-inspired computing`, `neuromorphic engineering`, cognitive science, psychology, law, and linguistics.
 
-Outside code, I enjoy badminton, music, and following whatever question happens to catch my mind. Three minutes of passion can still bring three minutes of growth.
+- Outside code, I enjoy badminton, music, and following whatever question happens to catch my mind.
+
+- Three minutes of passion can still bring three minutes of growth.
 
 <br>
 
 # 🔥 News
-- *2025*: &nbsp;🎉🎉 - Incoming M.Sc. student at HKU Computer Science!
+- *2026*: &nbsp;🎉🎉 - Incoming M.Sc. student at HKU Computer Science!
 
 # 📝 Publications 
 
