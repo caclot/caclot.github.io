@@ -49,7 +49,7 @@ I'm keeping the tiny rough projects offstage for now, until they become somethin
 
 # 📖 Educations
 - *2021.09 - 2025.06*: 郑州大学，软件工程（卓越工程师），学士
-- *2025 - Present*: 香港大学，计算机科学，硕士（即将入读）
+- *2026.09 - 2027*: 香港大学，计算机科学，硕士（即将入读）
 
 # 💬 Invited Talks
 - *2021.06*, 大家好
