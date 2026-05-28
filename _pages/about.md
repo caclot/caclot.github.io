@@ -59,9 +59,9 @@ I'm keeping the tiny rough projects offstage for now, until they become somethin
 # 💻 Internships
 - *2024.09 - 2025.05*: Institute of Computing Technology, Chinese Academy of Sciences, Virtual Reality Group
 
-<br>
+<span class='anchor' id='currently'></span>
 
-## Currently
+# 🎯 Currently
 
 - Preparing for my next chapter at HKU Computer Science.
 - Learning software engineering, AI, and the messy craft of turning ideas into working tools.
